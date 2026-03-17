@@ -1,0 +1,27 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Research"
+pageRef = "Research"
+weight = 1
+
+[[main]]
+name = "Maths"
+pageRef = "Maths"
+identifier = "gmQyOfOiV2"
+weight = 2
+
+[[main]]
+name = "CV"
+pageRef = "CV"
+weight = 3
+
+[[main]]
+pre = "github"
+url = "https://github.com/dylroy"
+identifier = "6OMlrtvubh"
+weight = 4
+
+[[footer]]
+none = "none"
