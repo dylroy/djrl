@@ -10,6 +10,12 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 
-["params.author"]
+[author]
 name = "Dylan J. Roy-Leo"
 email = "djroy@umass.edu"
+# image = 
+headline = "My personal blog"
+bio = "A little about me"
+links = [
+    {github = "https://github.com/dylroy"}
+]
