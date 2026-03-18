@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = true
@@ -34,7 +34,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "profile"
 showRecent = true
 showRecentItems = 5
 showMoreLink = false
@@ -61,7 +61,7 @@ showEdit = true
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = true
+showPagination = false
 invertPagination = false
 showReadingTime = true
 showTableOfContents = false

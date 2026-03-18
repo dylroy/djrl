@@ -1,5 +1,5 @@
 ---
-title: "Euler's identity and the time I fell in love"
+title: "Euler's identity"
 date: 2026-03-16
 draft: false
 ---

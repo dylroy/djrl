@@ -10,12 +10,12 @@ title = "Dylan Joseph Roy-Leo"
     rtl = false
     dateFormat = "2 January 2006"
 
-[author]
+[params.author]
     name = "Dylan J. Roy-Leo"
     email = "djroy@umass.edu"
-    # image = 
-    headline = "My personal blog"
-    bio = "A little about me"
+    image = "NECASC_headshot.jpg"
+    headline = "Welcome to my public digital garden"
+    bio = "Coastal processes researcher & graduate student"
     links = [
         {github = "https://github.com/dylroy"}
     ]
